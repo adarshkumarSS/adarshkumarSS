@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on **Django, React, and React Native**
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/adarshkumarSS/)
 - 💬 Ask me about **React, Django, and Vite**
-- 📫 How to reach me: **zainadarsh@gmail.com**
 - 📄 Experience: Django Developer & React Developer at **Victopia Labs**
 
 ---
