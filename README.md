@@ -18,17 +18,22 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="mailto:zainadarsh@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/adarshkumarsathiyamoorthy2006/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/adarshkumar_sathiyamoorthy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="height:24px; vertical-align:middle;"/>
+  <span style="font-size:16px; vertical-align:middle; margin-left:8px; color:#ffffff;">zainadarsh@gmail.com</span>
 </p>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="height:24px; vertical-align:middle;"/>
+  <span style="font-size:16px; vertical-align:middle; margin-left:8px; color:#ffffff;">adarshkumarsathiyamoorthy2006</span>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" style="height:24px; vertical-align:middle;"/>
+  <span style="font-size:16px; vertical-align:middle; margin-left:8px; color:#ffffff;">adarshkumar_sathiyamoorthy</span>
+</p>
+
 
 ---
 
@@ -51,3 +56,10 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 </p>
+
+---
+<h3 align="left">LeetCode Stats:</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adarshkumar_sathiyamoorthy?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+</p>
+
